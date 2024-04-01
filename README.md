@@ -19,7 +19,7 @@
 
 ##### 插件下载:
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/kenzok8/compile-package?style=for-the-badge&label=插件更新下载)](https://github.com/kenzok8/compile-package/releases/latest)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/EinbeckSt/compile-package?style=for-the-badge&label=插件更新下载)](https://github.com/EinbeckSt/compile-package/releases/latest)
 
 #### 使用方式：
 
